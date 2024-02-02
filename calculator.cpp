@@ -3,6 +3,8 @@ using namespace std;
 
 int main(){
       int a,b,c,d,e,f;
+
+      cout << "Calculator";
       cout <<"Enter Value of A:-";
       cin >> a;
 
